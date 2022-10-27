@@ -1,2 +1,1 @@
-The README for this project is for pointers arrays and strings
-
+More on pointers, Arrays and strings in C programming
